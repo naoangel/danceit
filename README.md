@@ -34,13 +34,10 @@ Como conclusión, se sintió un dejo de conformidad, más porque no conocen o ti
    
 
 
-    
-
-
+   ![jovenesbailando](https://i.imgur.com/TxBoVph.jpg)
+   Jóvenes en medio de su práctica de baile, en GAM.
      
        
-                   Grupo de jóvenes bailarines. Contexto:  Práctica en GAM. 
-
 <b>Procesar y sintetizar información</b> 
 Para ordenar y comparar las ideas extraídas, para poder manejarlas mejor y definir cuál sería la ruta a tomar, o la función de valor, se hizo un mapa de afinidad,  con dos puntos principales y derivados. Gracias es esto,  encontré también la necesidad de transmitir, no solo conectarse, sino mostrar lo que están haciendo , por videos por ejemplo.
 
@@ -72,13 +69,18 @@ Para el contenido, se chequearon las necesidades que salieron en las entrevistas
 ![contenido](https://i.imgur.com/imozZNf.jpg)
 
 <b>Sketches</b>
+Algunas vistas hechas a mano.
 ![sketch1](https://i.imgur.com/8U3Q1EJ.jpg)
 ![sketch2](https://i.imgur.com/m2LSII0.jpg)
 
 
+<b>Testing</b>
+Al probar el prototipo se pudo percibir algunos problemas de usabilidad en la conexión, algunos íconos o palabras que no se entendían, y también falta de vistas, por lo que se pasó a corregir.
 
 
 
+<a href="https://marvelapp.com/42d00b8/screen/39936474"><b>Ver Prototipo </b></a>
+Algunas de las vistas del prototipo. 
+![algunasvistasprototipo](https://i.imgur.com/xkujv5j.jpg)
 
 
-<a href="https://marvelapp.com/42d00b8/screen/39936474"><b>Prototipo </b></a>
