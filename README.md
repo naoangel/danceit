@@ -71,7 +71,9 @@ Se creó un user persona con las características más representativas del públ
 Para el contenido, se chequearon las necesidades que salieron en las entrevistas . 
 ![contenido](https://i.imgur.com/imozZNf.jpg)
 
-Sketches
+<b>Sketches</b>
+![sketch1](https://i.imgur.com/8U3Q1EJ.jpg)
+![sketch2](https://i.imgur.com/m2LSII0.jpg)
 
 
 
@@ -79,5 +81,4 @@ Sketches
 
 
 
-
-Prototipo https://marvelapp.com/project/2806186/
+<a href="https://marvelapp.com/42d00b8/screen/39936474"><b>Prototipo </b></a>
