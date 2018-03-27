@@ -10,6 +10,10 @@ Enid Veneros. Estudiante de UX Design en Laboratoria
 ## Desarrollado para
 Todo aquel que tenga como pasión la danza. 
 
+## Tecnología Utilizada 
+
+Para el prototipado  se utilizó Marvel. 
+
 
 
 
