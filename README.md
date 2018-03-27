@@ -1,15 +1,20 @@
 
+# DANCE IT
 
-
-![danceit](https://i.imgur.com/fhtvwGy.jpg)
-
-
-<b>DANCE IT</b>
-Proyecto de app de una red social para bailarines.
+Proyecto de app de una red social enfocada en unir gente, cuya pasión  sea la danza, independiente del nivel técnico que tengan, incluso aficionados o principiantes, que lo que los motive a usar la aplicación sea conocer gente con la que pudieran crear algo juntos, o simplemente busque inspiración, encontrando modelos a seguir, quizás exista alguno muy cerca y nunca sabrias de él.  
 Enid Veneros. Estudiante de UX Design en Laboratoria
 
+
+## Desarrollado para
+
+
+
+
+
+
+
 <b>Objetivos</b>
-Dar solución a una problemática o mejoría, con resultado de producto digital. Crear   función principal que da valor a la app.
+Dar solución a una problemática o mejoría, con resultado de producto digital. Crear función principal que da valor a la app.
 
 <b> Proceso </b>
 Al iniciar se quería ver si era factible una app de red para bailarines. Para eso, primero se buscaron referencias, para poder ver cómo funcionaban, lamentablemente en Playstore no había ninguna, lo que si se encontró, fue una página que era una comunidad de bailarines www.dance.com
@@ -33,6 +38,7 @@ Como conclusión, se sintió un dejo de conformidad, más porque no conocen o ti
 
    
 
+![danceit](https://i.imgur.com/fhtvwGy.jpg)
 
    ![jovenesbailando](https://i.imgur.com/TxBoVph.jpg)
    Jóvenes en medio de su práctica de baile, en GAM.
