@@ -1,12 +1,14 @@
 
 # DANCE IT
 
-Proyecto de app de una red social enfocada en unir gente, cuya pasión  sea la danza, independiente del nivel técnico que tengan, incluso aficionados o principiantes, que lo que los motive a usar la aplicación sea conocer gente con la que pudieran crear algo juntos, o simplemente busque inspiración, encontrando modelos a seguir, quizás exista alguno muy cerca y nunca sabrias de él.  
+Proyecto de app de una red social enfocada en unir bailarines, independiente del nivel técnico que tengan, incluso aficionados o principiantes, que lo que los motive a usar la aplicación sea conocer gente con la que pudieran crear algo juntos, o simplemente busquen inspiración, encontrando modelos a seguir. 
 Enid Veneros. Estudiante de UX Design en Laboratoria
+
+![danceit](https://user-images.githubusercontent.com/32294366/37959156-d6c6b536-3188-11e8-95eb-1beabfc2963a.jpg)
 
 
 ## Desarrollado para
-
+Todo aquel que tenga como pasión la danza. 
 
 
 
@@ -38,7 +40,7 @@ Como conclusión, se sintió un dejo de conformidad, más porque no conocen o ti
 
    
 
-![danceit](https://i.imgur.com/fhtvwGy.jpg)
+
 
    ![jovenesbailando](https://i.imgur.com/TxBoVph.jpg)
    Jóvenes en medio de su práctica de baile, en GAM.
