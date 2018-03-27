@@ -15,10 +15,10 @@ Todo aquel que tenga como pasión la danza.
 
 
 
-<b>Objetivos</b>
+## Objetivos
 Dar solución a una problemática o mejoría, con resultado de producto digital. Crear función principal que da valor a la app.
 
-<b> Proceso </b>
+## Proceso
 Al iniciar se quería ver si era factible una app de red para bailarines. Para eso, primero se buscaron referencias, para poder ver cómo funcionaban, lamentablemente en Playstore no había ninguna, lo que si se encontró, fue una página que era una comunidad de bailarines www.dance.com
        
 
@@ -86,7 +86,7 @@ Algunas vistas hechas a mano.
 Al probar el prototipo se pudo percibir algunos problemas de usabilidad en la conexión, algunos íconos o palabras que no se entendían, y también falta de vistas, por lo que se pasó a corregir.
 
 
-
+## Prototipo
 <a href="https://marvelapp.com/42d00b8/screen/39936474"><b>Ver Prototipo </b></a>
 Algunas de las vistas del prototipo. 
 ![algunasvistasprototipo](https://i.imgur.com/xkujv5j.jpg)
