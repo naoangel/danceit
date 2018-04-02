@@ -1,6 +1,8 @@
 
 # DANCE IT
 
+Laboratoria 2018.
+
 Proyecto de app de una red social enfocada en unir bailarines, independiente del nivel técnico que tengan, incluso aficionados o principiantes, que lo que los motive a usar la aplicación sea conocer gente con la que pudieran crear algo juntos, o simplemente busquen inspiración, encontrando modelos a seguir. 
 Enid Veneros. Estudiante de UX Design en Laboratoria
 
